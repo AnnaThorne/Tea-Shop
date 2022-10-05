@@ -1,0 +1,6 @@
+<?php
+DEFINE('DATABASE_URL', 'localhost');
+DEFINE('DATABASE_NAME', 'urvo00');
+DEFINE('DATABASE_USERNAME', 'urvo00');
+DEFINE('DATABASE_PASSWORD', '');
+?>
